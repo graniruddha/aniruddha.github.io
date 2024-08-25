@@ -1,4 +1,4 @@
-title: "Aniruddha Deshpande 3"
+title: "Aniruddha Deshpande 4"
 author: "Aniruddha Deshpande"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/CV_aniruddha.pdf", title: "CV"}
+  - {title: "CV", url: "/cv/"}
   - {file: "projects.html", title: "Projects"}
   - {file: "publications.html", title: "Publications"}
   - {file: "README.md", title: "About me"}
