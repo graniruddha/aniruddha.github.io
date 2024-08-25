@@ -1,18 +1,30 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <!-- Include any other head elements here -->
+</head>
+<body>
+    <!-- Your content goes here -->
 
-<div class="cv-container">
-    <div class="timeline">
-        <div class="car"></div>
-        <div class="milestones">
-            {% for milestone in site.data.cv %}
-            <div class="milestone">
-                <div class="circle">{{ milestone.title }}</div>
-                <div class="description">{{ milestone.description }}</div>
-                <div class="year">{{ milestone.year }}</div>
+    <div class="cv-container">
+        <div class="timeline">
+            <div class="car"></div>
+            <div class="milestones">
+                {% for milestone in site.data.cv %}
+                <div class="milestone">
+                    <div class="circle">{{ milestone.title }}</div>
+                    <div class="description">{{ milestone.description }}</div>
+                    <div class="year">{{ milestone.year }}</div>
+                </div>
+                {% endfor %}
             </div>
-            {% endfor %}
         </div>
     </div>
-</div>
+
+    <!-- Include the JavaScript file here -->
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+</body>
+</html>
