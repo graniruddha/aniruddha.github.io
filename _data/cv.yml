@@ -1,0 +1,39 @@
+- title: "Doctoral Degree : Superconductivity & Material Science"
+  description: "Universität Stuttgart, Stuttgart, Germany. Collaborating on the QEDHiNET project (Quantum Electrodynamics in High Impedance Networks), contributing to the development of Germany’s quantum computer."
+  year: "2021-2024"
+
+- title: "BS-MS Dual Degree"
+  description: "Indian Institute of Science Education and Research, Pune, India. Relevant Courses: Quantum Information, Advanced Statistical Mechanics, Advanced Quantum Mechanics."
+  year: "2015-2020"
+
+- title: "Higher Secondary Education"
+  description: "Mahaveer College, Pune, India. Secured rank among top 1 percentile of the state."
+  year: "2013-2015"
+
+- title: "Brain tumor detection using Keras"
+  description: "Developed a Keras-based deep learning model for accurate brain tumor detection from MRI scans."
+  year: "2022"
+
+- title: "Airbnb Rental Price Prediction"
+  description: "Used Python to scrape Airbnb listings data for Mumbai and built a predictive model to estimate rental prices."
+  year: "2022"
+
+- title: "Circuit QED"
+  description: "Master’s Thesis, TIFR, Mumbai, India. Microwave Single Photon Detection using Superconducting qubits."
+  year: "2019-2020"
+
+- title: "Quantum Information"
+  description: "Quantum Simulation of Non-Equilibrium Thermal States and Entanglement in Many-Body Systems."
+  year: "2018-2019"
+
+- title: "Computational Physics"
+  description: "Entanglement of Bose-Einstein Condensates with Microwaves."
+  year: "Summer 2018"
+
+- title: "Fellowships"
+  description: "Scholarship for Higher Education (SHE), INSPIRE by Dept. of Science and Technology, India (2015-2020). Summer Fellowship, NYU Shanghai (2018)."
+  year: "2015-2018"
+
+- title: "Volunteering & Outreach"
+  description: "Volunteered at Covid Testing Center at IISER Pune, and participated in science outreach programs at TIFR."
+  year: "2020"
