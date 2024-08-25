@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="cv-container">
+    <div class="timeline">
+        <div class="car"></div>
+        <div class="milestones">
+            {% for milestone in site.data.cv %}
+            <div class="milestone">
+                <div class="circle">{{ milestone.title }}</div>
+                <div class="description">{{ milestone.description }}</div>
+                <div class="year">{{ milestone.year }}</div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
